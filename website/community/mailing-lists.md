@@ -10,6 +10,7 @@ a user as well as a dev list for discussion. In addition, there is a commit
 list so we are able to monitor what happens in the GitHub repository.
 
 <a name="MailingLists,IRCandArchives-Mailinglists"></a>
+
 # Mailing lists
 
 ## How to subscribe/unsubscribe
@@ -20,6 +21,7 @@ The pattern for subscribing and unsubscribing to mailing lists at the ASF
 is &lt;list-name&gt;-&lt;action&gt;@&lt;project.&gt;apache.org.
 
 <a name="MailingLists,IRCandArchives-MahoutUserList"></a>
+
 ## Mahout User List
 
 This list is for users of Mahout to ask questions, share knowledge, and
@@ -27,10 +29,11 @@ discuss issues. Do send mail to this list with usage and configuration
 questions and problems. Also, please send questions to this list to verify
 your problem before filing issues on GitHub.
 
-* [Subscribe](mailto:user-subscribe@mahout.apache.org)
-* [Unsubscribe](mailto:user-unsubscribe@mahout.apache.org)
+- [Subscribe](mailto:user-subscribe@mahout.apache.org)
+- [Unsubscribe](mailto:user-unsubscribe@mahout.apache.org)
 
 <a name="MailingLists,IRCandArchives-MahoutDeveloperList"></a>
+
 ## Mahout Developer List
 
 This is the list where participating developers of the Mahout project meet
@@ -40,17 +43,18 @@ questions and problems.
 
 Discussion list:
 
-* [Subscribe](mailto:dev-subscribe@mahout.apache.org)
- -- Do not send mail to this list with usage questions or configuration
-questions and problems.
-* [Unsubscribe](mailto:dev-unsubscribe@mahout.apache.org)
+- [Subscribe](mailto:dev-subscribe@mahout.apache.org)
+  -- Do not send mail to this list with usage questions or configuration
+  questions and problems.
+- [Unsubscribe](mailto:dev-unsubscribe@mahout.apache.org)
 
 Commit notifications:
 
-* [Subscribe](mailto:commits-subscribe@mahout.apache.org)
-* [Unsubscribe](mailto:commits-unsubscribe@mahout.apache.org)
+- [Subscribe](mailto:commits-subscribe@mahout.apache.org)
+- [Unsubscribe](mailto:commits-unsubscribe@mahout.apache.org)
 
 <a name="MailingLists,IRCandArchives-IRC"></a>
+
 # IRC
 
 Mahout previously used the IRC channel **#mahout**. Most discussions now
@@ -61,15 +65,28 @@ issues, and other people who are not on IRC should be given time to respond
 before any work is committed.
 
 <a name="MailingLists,IRCandArchives-Archives"></a>
+
 # Archives
 
 <a name="MailingLists,IRCandArchives-OfficialApacheArchive"></a>
+
 ## Official Apache Archive
 
-* http://mail-archives.apache.org/mod_mbox/mahout-dev/
-* http://mail-archives.apache.org/mod_mbox/mahout-user/
+- http://mail-archives.apache.org/mod_mbox/mahout-dev/
+- http://mail-archives.apache.org/mod_mbox/mahout-user/
 
 Please note the inclusion of a link to an archive does not imply an
 endorsement of that company by any of the committers of Mahout, the Lucene
 PMC, or the Apache Software Foundation. Each archive owner is solely
 responsible for the contents and availability of their archive.
+
+## Slack
+
+The Apache Mahout community also communicates on Slack.
+
+To join:
+
+- Join the Apache Software Foundation Slack workspace
+- Once joined, find and join the **#mahout** channel
+
+Real-time discussion and quick questions often happen on Slack.
